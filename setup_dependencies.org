@@ -63,6 +63,7 @@ On a machine running the Fedora Linux distribution, install the packages:
 #+begin_example
  $ sudo dnf install clang llvm
  $ sudo dnf install elfutils-libelf-devel perf
+ $ sudo dnf install elfutils-devel elfutils-libs
 #+end_example
 
 ** Packages on Debian/Ubuntu
